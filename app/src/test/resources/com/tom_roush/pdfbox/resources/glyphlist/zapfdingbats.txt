@@ -1,0 +1,4 @@
+# ZapfDingbats glyph list
+space;0020
+a1;2701
+a2;2702

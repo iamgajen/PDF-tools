@@ -1,0 +1,17 @@
+StartFontMetrics 4.1
+FontName Helvetica
+FullName Helvetica
+FamilyName Helvetica
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+FontBBox -166 -225 1000 1000
+Ascender 718
+Descender -207
+EncodingScheme AdobeStandardEncoding
+StartCharMetrics 3
+C 32 ; W0X 278 ; N space ; B 0 0 0 0 ;
+C 65 ; W0X 667 ; N A ; B 0 0 667 718 ;
+C -1 ; W0X 500 ; N default ; B 0 0 500 700 ;
+EndCharMetrics
+EndFontMetrics

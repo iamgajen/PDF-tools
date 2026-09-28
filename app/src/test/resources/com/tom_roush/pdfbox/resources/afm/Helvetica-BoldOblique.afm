@@ -1,0 +1,16 @@
+StartFontMetrics 4.1
+FontName Helvetica-BoldOblique
+FullName Helvetica Bold Oblique
+FamilyName Helvetica
+Weight Bold
+ItalicAngle -12
+IsFixedPitch false
+FontBBox -170 -225 1000 1000
+Ascender 718
+Descender -207
+EncodingScheme AdobeStandardEncoding
+StartCharMetrics 2
+C 32 ; W0X 278 ; N space ; B 0 0 0 0 ;
+C -1 ; W0X 500 ; N default ; B 0 0 500 700 ;
+EndCharMetrics
+EndFontMetrics

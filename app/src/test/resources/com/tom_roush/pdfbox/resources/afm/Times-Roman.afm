@@ -1,0 +1,17 @@
+StartFontMetrics 4.1
+FontName Times-Roman
+FullName Times Roman
+FamilyName Times
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+FontBBox -168 -218 1000 1000
+Ascender 683
+Descender -217
+EncodingScheme AdobeStandardEncoding
+StartCharMetrics 3
+C 32 ; W0X 250 ; N space ; B 0 0 0 0 ;
+C 65 ; W0X 722 ; N A ; B 0 0 722 683 ;
+C -1 ; W0X 500 ; N default ; B 0 0 500 700 ;
+EndCharMetrics
+EndFontMetrics

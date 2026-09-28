@@ -1,0 +1,16 @@
+StartFontMetrics 4.1
+FontName Courier-BoldOblique
+FullName Courier Bold Oblique
+FamilyName Courier
+Weight Bold
+ItalicAngle -12
+IsFixedPitch true
+FontBBox -23 -250 715 805
+Ascender 629
+Descender -157
+EncodingScheme AdobeStandardEncoding
+StartCharMetrics 2
+C 32 ; W0X 600 ; N space ; B 0 0 0 0 ;
+C -1 ; W0X 600 ; N default ; B 0 0 600 700 ;
+EndCharMetrics
+EndFontMetrics

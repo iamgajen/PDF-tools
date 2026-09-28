@@ -1,0 +1,16 @@
+StartFontMetrics 4.1
+FontName Symbol
+FullName Symbol
+FamilyName Symbol
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+FontBBox -180 -293 1090 1010
+Ascender 641
+Descender -211
+EncodingScheme FontSpecific
+StartCharMetrics 2
+C 32 ; W0X 250 ; N space ; B 0 0 0 0 ;
+C -1 ; W0X 500 ; N default ; B 0 0 500 700 ;
+EndCharMetrics
+EndFontMetrics

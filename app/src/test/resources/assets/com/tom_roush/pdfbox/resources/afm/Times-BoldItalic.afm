@@ -1,0 +1,16 @@
+StartFontMetrics 4.1
+FontName Times-BoldItalic
+FullName Times Bold Italic
+FamilyName Times
+Weight Bold
+ItalicAngle -15
+IsFixedPitch false
+FontBBox -168 -218 1000 1000
+Ascender 683
+Descender -217
+EncodingScheme AdobeStandardEncoding
+StartCharMetrics 2
+C 32 ; W0X 250 ; N space ; B 0 0 0 0 ;
+C -1 ; W0X 500 ; N default ; B 0 0 500 700 ;
+EndCharMetrics
+EndFontMetrics
